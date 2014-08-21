@@ -30,6 +30,10 @@ app.config(function ($routeProvider) {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/video', {
+        templateUrl: 'views/video.html',
+        controller: 'VideoCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
