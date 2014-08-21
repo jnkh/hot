@@ -1,5 +1,7 @@
 'use strict';
 
+/* global app:true */
+
 /**
  * @ngdoc overview
  * @name hotApp
@@ -17,12 +19,12 @@ var app = angular
     'ngSanitize',
     'ngTouch'
   ])
-  
+
 app.config(function ($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
+        controller: 'FrontCtrl'
       })
       .when('/about', {
         templateUrl: 'views/about.html',
