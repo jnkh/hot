@@ -1,10 +1,11 @@
 <p>{{ 'Hello' + 'World'}}</p>
 <div id = "pattern" class = "pattern">
 	<ul class = "grid">
-		<li ng-repeat = "a in [1,2,3,4,5,6]">
-			<a href="#">
-				<img ng-src="images/cartman.png"/>
-			</a>
+		<li ng-repeat = "a in images">
+				<img ng-click="addImage()" ng-src="images/cartman.png"/>
+				<p>This is image #{{a}}</p>
 		</li>
 	</ul>
 </div>
+Number of images: {{images.length}}
+<img ng-click="addImage()" ng-src="images/cartman.png"/>

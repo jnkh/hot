@@ -18,7 +18,7 @@ var app = angular
     'ngRoute',
     'ngSanitize',
     'ngTouch'
-  ])
+  ]);
 
 app.config(function ($routeProvider) {
     $routeProvider
