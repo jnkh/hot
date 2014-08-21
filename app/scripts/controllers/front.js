@@ -3,7 +3,7 @@
 app.controller('FrontCtrl', function($scope) {
 		$scope.arr = [];
 
-		for ($scope.i = 0; $scope.i < 100; $scope.i ++) {
+		for ($scope.i = 0; $scope.i < 20; $scope.i ++) {
 			$scope.arr.push($scope.i);
 		}
 

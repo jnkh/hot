@@ -47,7 +47,7 @@
 				clear: none;
 			}
 		}
-		@media screen and (min-width: 90em) {
+		@media screen and (min-width: 130em) {
 			.g li {
 		    	width: 16.666666666%; 
 		  	}
@@ -58,7 +58,7 @@
 				clear: none;
 			}
 		}
-		@media screen and (min-width: 110em) {
+		@media screen and (min-width: 160em) {
 			.g li {
 		    	width: 14.28%; 
 		  	}

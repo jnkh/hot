@@ -12,3 +12,5 @@ with_pornstars_mask = pandas.notnull(frame.PORNSTAR)
 #embed codes and pornstars of those entries
 embed_codes = np.array(frame.EMBEDIFRAMECODE[with_pornstars_mask])
 pornstars = np.array(frame.PORNSTAR[with_pornstars_mask])
+
+print embed_codes
