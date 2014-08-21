@@ -1,9 +1,9 @@
 <p>{{ 'Hello' + 'World'}}</p>
 <div id = "pattern" class = "pattern">
 	<ul class = "grid">
-		<li ng-repeat = "a in images">
+		<li ng-repeat = "idx in images">
 				<img ng-click="addImage()" ng-src="images/cartman.png"/>
-				<p>This is image #{{a}}</p>
+				<p>This is image #{{idx}}</p>
 		</li>
 	</ul>
 </div>
